@@ -1,7 +1,6 @@
 {
   "name": "brapi",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -9,10 +8,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Johnny Huang",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
     "debug": "^3.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.brandma.co:johnny.huang/brapi_npm.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "description": ""
 }
